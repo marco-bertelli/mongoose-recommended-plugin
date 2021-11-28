@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Marco bertelli",
+  "author": "marco-bert",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4",

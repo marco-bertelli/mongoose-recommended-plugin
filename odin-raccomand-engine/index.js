@@ -43,7 +43,6 @@ async function saveSimilarScores(collectionName, field, minSimilarity){
 
     if (_.isEmpty(result.value)) return;
 
-    console.log(result.value);
 
     return relatedModel.create({ entityId: result.key, relatedScore: result.value });
   });

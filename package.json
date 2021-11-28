@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-recommended-plugin",
+  "name": "@marco-bert/mongoose-recommended-plugin",
   "version": "1.0.0",
   "description": "a mongoose plugin to easy implent a recommended system with only the mongoose schema",
   "main": "index.js",
